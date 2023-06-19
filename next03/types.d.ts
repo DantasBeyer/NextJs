@@ -7,7 +7,7 @@ type Post = {
 
 type User = {
   id: number;
-  name: "string string";
+  name: "string";
   username: "string";
   email: "string";
   address: {
